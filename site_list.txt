@@ -1,0 +1,6 @@
+https://news.mynavi.jp/rss/digital/pc
+https://news.mynavi.jp/rss/business/technology
+https://mainichi.jp/rss/etc/mainichi-flash.rss
+https://news.yahoo.co.jp/rss/categories/science.xml
+https://news.yahoo.co.jp/pickup/rss.xml
+https://news.yahoo.co.jp/rss/topics/it.xml
